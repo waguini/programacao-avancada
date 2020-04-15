@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1586404241 source:c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\main.cpp
+	<iostream>
+	"ContaCorrente.h"
+	"ContaPoupanca.h"
+
+1585944665 source:c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\src\conta.cpp
+	"Conta.h"
+
+1586404855 c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\include\conta.h
+	<iostream>
+	"Cliente.h"
+
+1585943857 source:c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1586404797 c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\include\contacorrente.h
+	<Conta.h>
+	<Cliente.h>
+	<iostream>
+
+1585942441 source:c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\src\contapoupanca.cpp
+	"ContaPoupanca.h"
+
+1586404831 c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\include\contapoupanca.h
+	<Conta.h>
+
+1586404810 c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\include\cliente.h
+	<string>
+
+1585947196 source:c:\users\wagne\documents\faculdade\programação avançada\trabalho3\contasheranca\src\cliente.cpp
+	"Cliente.h"
+
