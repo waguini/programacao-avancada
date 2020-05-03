@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1588545803 source:c:\users\wagne\documents\faculdade\programação avançada\prova\main.cpp
+	<iostream>
+	<VetorInt.h>
+	<Data.h>
+
+1588541543 source:c:\users\wagne\documents\faculdade\programação avançada\prova\src\data.cpp
+	"Data.h"
+
+1588549376 c:\users\wagne\documents\faculdade\programação avançada\prova\include\data.h
+	<VetorInt.h>
+	<iostream>
+	<iomanip>
+
+1587601521 c:\users\wagne\documents\faculdade\programação avançada\prova\include\imprimivel.h
+
+1587601475 source:c:\users\wagne\documents\faculdade\programação avançada\prova\src\imprimivel.cpp
+	"Imprimivel.h"
+
+1588463263 source:c:\users\wagne\documents\faculdade\programação avançada\prova\src\vetorint.cpp
+	"VetorInt.h"
+
+1588545219 c:\users\wagne\documents\faculdade\programação avançada\prova\include\vetorint.h
+	<iostream>
+	<Imprimivel.h>
+
