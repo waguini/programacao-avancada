@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1589849298 source:c:\users\wagne\documents\faculdade\programação avançada\arquivos\src\basedao.cpp
+	"BaseDAO.h"
+
+1589849298 c:\users\wagne\documents\faculdade\programação avançada\arquivos\include\basedao.h
+
+1589850384 source:c:\users\wagne\documents\faculdade\programação avançada\arquivos\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1589849636 source:c:\users\wagne\documents\faculdade\programação avançada\arquivos\src\produto.cpp
+	"Produto.h"
+
+1589850555 c:\users\wagne\documents\faculdade\programação avançada\arquivos\include\produto.h
+	<string>
+	<iostream>
+
+1589851296 source:c:\users\wagne\documents\github\programacao-avancada\exercicios\arquivos\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1589849298 source:c:\users\wagne\documents\github\programacao-avancada\exercicios\arquivos\src\basedao.cpp
+	"BaseDAO.h"
+
+1589849298 c:\users\wagne\documents\github\programacao-avancada\exercicios\arquivos\include\basedao.h
+
+1589849636 source:c:\users\wagne\documents\github\programacao-avancada\exercicios\arquivos\src\produto.cpp
+	"Produto.h"
+
+1589850555 c:\users\wagne\documents\github\programacao-avancada\exercicios\arquivos\include\produto.h
+	<string>
+	<iostream>
+
