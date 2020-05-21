@@ -8,6 +8,8 @@ class Produto
 {
     public:
         Produto();
+        Produto(string nome,double preco, int qtd) : _nome(nome), _preco(preco), _qtd(qtd){
+        }
         virtual ~Produto();
 
         string Get_nome() { return _nome; }
