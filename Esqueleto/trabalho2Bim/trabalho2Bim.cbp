@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="trabalho2Bim" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/trabalho2Bim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/trabalho2Bim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Categoria.h" />
+		<Unit filename="include/ControleCategoria.h" />
+		<Unit filename="include/ControleDespesas.h" />
+		<Unit filename="include/ControleExportacao.h" />
+		<Unit filename="include/ControleImportacao.h" />
+		<Unit filename="include/ControleOrcamento.h" />
+		<Unit filename="include/ControleRelatorio.h" />
+		<Unit filename="include/Data.h" />
+		<Unit filename="include/Despesa.h" />
+		<Unit filename="include/Hora.h" />
+		<Unit filename="include/InterfaceImpressora.h" />
+		<Unit filename="include/InterfaceSGDB.h" />
+		<Unit filename="include/InterfaceUsuario.h" />
+		<Unit filename="include/Orcamento.h" />
+		<Unit filename="include/teste.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Categoria.cpp" />
+		<Unit filename="src/ControleCategoria.cpp" />
+		<Unit filename="src/ControleDespesas.cpp" />
+		<Unit filename="src/ControleExportacao.cpp" />
+		<Unit filename="src/ControleImportacao.cpp" />
+		<Unit filename="src/ControleOrcamento.cpp" />
+		<Unit filename="src/ControleRelatorio.cpp" />
+		<Unit filename="src/Data.cpp" />
+		<Unit filename="src/Despesa.cpp" />
+		<Unit filename="src/Hora.cpp" />
+		<Unit filename="src/InterfaceImpressora.cpp" />
+		<Unit filename="src/InterfaceSGDB.cpp" />
+		<Unit filename="src/InterfaceUsuario.cpp" />
+		<Unit filename="src/Orcamento.cpp" />
+		<Unit filename="src/teste.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
