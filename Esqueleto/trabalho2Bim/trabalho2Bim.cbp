@@ -35,6 +35,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Categoria.h" />
+		<Unit filename="include/CategoriaDAO.h" />
 		<Unit filename="include/ControleCategoria.h" />
 		<Unit filename="include/ControleDespesas.h" />
 		<Unit filename="include/ControleExportacao.h" />
@@ -51,6 +52,7 @@
 		<Unit filename="include/teste.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Categoria.cpp" />
+		<Unit filename="src/CategoriaDAO.cpp" />
 		<Unit filename="src/ControleCategoria.cpp" />
 		<Unit filename="src/ControleDespesas.cpp" />
 		<Unit filename="src/ControleExportacao.cpp" />

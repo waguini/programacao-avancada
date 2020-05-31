@@ -5,7 +5,7 @@
 #include <assert.h>
 
 #include "Orcamento.h"
-
+#include <Categoria.h>
 
 Orcamento::Orcamento() {
 }

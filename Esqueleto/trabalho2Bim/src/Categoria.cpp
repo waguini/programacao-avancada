@@ -7,11 +7,14 @@
 #include "Categoria.h"
 
 using namespace std;
-Categoria::Categoria() {
+Categoria::Categoria(){
+}
+
+Categoria::Categoria(string nome) : _nome(nome){
 }
 
 string Categoria::getNome() {
-    return 0;
+    return _nome;
 }
 
 void Categoria::setNome(string nome) {

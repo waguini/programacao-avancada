@@ -236,3 +236,257 @@
 	<assert.h>
 	"Orcamento.h"
 
+1590963062 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\categoria.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Categoria.h"
+
+1590959821 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\categoria.h
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	<string>
+
+1590963547 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controlecategoria.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"ControleCategoria.h"
+	<CategoriaDAO.h>
+
+1590963589 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controlecategoria.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	<vector>
+	"Categoria.h"
+	<CategoriaDAO.h>
+
+1590629219 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controledespesas.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"ControleDespesas.h"
+
+1590629133 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controledespesas.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Despesa.h"
+	"Orcamento.h"
+	"Data.h"
+
+1590628975 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\despesa.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1590628312 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\orcamento.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Data.h"
+	"Hora.h"
+	"Categoria.h"
+
+1590629350 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\data.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1590628292 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\hora.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1590627955 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controleexportacao.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"ControleExportacao.h"
+
+1590627854 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controleexportacao.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1590628961 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controleimportacao.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"ControleImportacao.h"
+
+1590629825 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controleimportacao.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Despesa.h"
+
+1590628734 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controleorcamento.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"ControleOrcamento.h"
+
+1590628981 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controleorcamento.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Orcamento.h"
+	"Data.h"
+
+1590628584 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controlerelatorio.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"ControleRelatorio.h"
+
+1590628965 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controlerelatorio.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Data.h"
+
+1590628271 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\data.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Data.h"
+
+1590628324 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\despesa.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Despesa.h"
+
+1590628447 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\hora.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Hora.h"
+
+1590628711 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\interfaceimpressora.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"InterfaceImpressora.h"
+
+1590628701 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\interfaceimpressora.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1590628928 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\interfacesgdb.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"InterfaceSGDB.h"
+
+1590628852 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\interfacesgdb.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Categoria.h"
+	"Orcamento.h"
+	"Data.h"
+	"Despesa.h"
+
+1590959776 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\orcamento.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Orcamento.h"
+	<Categoria.h>
+
+1590626420 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\teste.cpp
+	"teste.h"
+
+1590626420 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\teste.h
+
+1590958039 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\interfaceusuario.cpp
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"InterfaceUsuario.h"
+
+1590629084 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\interfaceusuario.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"Orcamento.h"
+	"Data.h"
+	"Categoria.h"
+	"Despesa.h"
+
+1590961860 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\main.cpp
+	<iostream>
+	<InterfaceUsuario.h>
+	<ControleCategoria.h>
+
+1590963356 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\categoriadao.h
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<vector>
+	<Categoria.h>
+
+1590963370 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\categoriadao.cpp
+	"CategoriaDAO.h"
+

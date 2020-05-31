@@ -7,6 +7,8 @@
 #include <assert.h>
 #include <string>
 
+
+using namespace std;
 class Categoria {
 private:
     std::string _nome;
@@ -14,6 +16,7 @@ private:
 
 public:
     Categoria();
+    Categoria(string nome);
 
     std::string getNome();
 
