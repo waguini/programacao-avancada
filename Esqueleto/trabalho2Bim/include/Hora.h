@@ -1,3 +1,6 @@
+#ifndef HORA_H
+#define HORA_H
+
 #include <string>
 #include <vector>
 #include <list>
@@ -18,4 +21,4 @@ public:
 	Hora();
 
 };
-
+#endif // HORA_H

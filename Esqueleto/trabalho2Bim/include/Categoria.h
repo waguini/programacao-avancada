@@ -11,16 +11,16 @@
 using namespace std;
 class Categoria {
 private:
-    std::string _nome;
+    string _nome;
 
 
 public:
     Categoria();
     Categoria(string nome);
 
-    std::string getNome();
+    string getNome() const;
 
-    void setNome(std::string nome);
+    void setNome(string nome);
 
 };
 #endif // CATEGORIA_H

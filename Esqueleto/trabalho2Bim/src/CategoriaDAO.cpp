@@ -12,7 +12,11 @@ void CategoriaDAO::carregarCategorias() {
     while (!fin.eof()) {
 
         fin >> nome;
+                if(fin.eof()){
+            break;
+        }
         listaCategorias.push_back(Categoria(nome));
+
     }
     fin.close();
 
@@ -26,8 +30,6 @@ void CategoriaDAO::adicionarCategoria(string categoria) {
         fout.close();
     } else
         cout << "Unable to open file";
-
-
 
 }
 
@@ -45,6 +47,28 @@ void CategoriaDAO::listarCategorias() {
 
     }
 }
+
+void CategoriaDAO::ordenarCategorias() {
+
+    cout << "Ordenando Lista de Categorias..." << endl;
+    auto ordenaPorString = [](const Categoria &c1,const Categoria &c2) -> bool {
+        return c1.getNome() < c2.getNome();
+    };
+
+    sort(listaCategorias.begin(),listaCategorias.end(),ordenaPorString);
+}
+
+void CategoriaDAO::salvaLista() {
+    //abre o arquivo e sobreescreve com alista atual
+        ofstream fout(ARQUIVO);
+
+     for (auto &e : listaCategorias) {
+            fout << e.getNome() << "\n";
+     }
+        fout.close();
+    }
+
+
 
 
 CategoriaDAO::~CategoriaDAO() {

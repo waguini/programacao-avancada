@@ -236,7 +236,7 @@
 	<assert.h>
 	"Orcamento.h"
 
-1590963062 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\categoria.cpp
+1591580810 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\categoria.cpp
 	<string>
 	<vector>
 	<list>
@@ -244,14 +244,14 @@
 	<assert.h>
 	"Categoria.h"
 
-1590959821 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\categoria.h
+1591892300 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\categoria.h
 	<vector>
 	<list>
 	<iostream>
 	<assert.h>
 	<string>
 
-1590963547 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controlecategoria.cpp
+1591587521 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\controlecategoria.cpp
 	<string>
 	<vector>
 	<list>
@@ -260,7 +260,7 @@
 	"ControleCategoria.h"
 	<CategoriaDAO.h>
 
-1590963589 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controlecategoria.h
+1591587455 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\controlecategoria.h
 	<string>
 	<vector>
 	<list>
@@ -288,12 +288,15 @@
 	"Orcamento.h"
 	"Data.h"
 
-1590628975 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\despesa.h
+1591578708 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\despesa.h
 	<string>
 	<vector>
 	<list>
 	<iostream>
 	<assert.h>
+	<Hora.h>
+	<Categoria.h>
+	<Data.h>
 
 1590628312 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\orcamento.h
 	<string>
@@ -312,7 +315,7 @@
 	<iostream>
 	<assert.h>
 
-1590628292 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\hora.h
+1591578781 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\hora.h
 	<string>
 	<vector>
 	<list>
@@ -383,7 +386,7 @@
 	<assert.h>
 	"Data.h"
 
-1590628271 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\data.cpp
+1590966937 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\data.cpp
 	<string>
 	<vector>
 	<list>
@@ -474,19 +477,20 @@
 	"Categoria.h"
 	"Despesa.h"
 
-1590961860 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\main.cpp
+1591891680 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\main.cpp
 	<iostream>
 	<InterfaceUsuario.h>
 	<ControleCategoria.h>
 
-1590963356 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\categoriadao.h
+1591587236 c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\include\categoriadao.h
 	<fstream>
 	<string>
 	<vector>
 	<algorithm>
 	<vector>
 	<Categoria.h>
+	<algorithm>
 
-1590963370 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\categoriadao.cpp
+1591891590 source:c:\users\wagne\documents\github\programacao-avancada\esqueleto\trabalho2bim\src\categoriadao.cpp
 	"CategoriaDAO.h"
 

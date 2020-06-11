@@ -9,7 +9,7 @@
 
 #include <vector>
 #include <Categoria.h>
-
+#include <algorithm>
 using namespace std;
 class CategoriaDAO
 {
@@ -21,6 +21,10 @@ class CategoriaDAO
         void adicionarCategoria(string categoria);
 
         void listarCategorias();
+
+        void ordenarCategorias();
+
+        void salvaLista();
 
 
         virtual ~CategoriaDAO();

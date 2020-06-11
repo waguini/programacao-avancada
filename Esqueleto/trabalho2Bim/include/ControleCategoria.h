@@ -20,8 +20,9 @@ public:
 
     void listarCategorias();
 
+
     void SetNome(string nome);
 
-    void salvarCategoria(Categoria* categoria);
+    void salvarCategorias();
 
 };

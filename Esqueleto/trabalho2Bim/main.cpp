@@ -5,15 +5,20 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
 
    ControleCategoria controleCategoria;
 
-   controleCategoria.adicionarCategoria("Categoria");
-
+   controleCategoria.adicionarCategoria("Lazer");
+   controleCategoria.adicionarCategoria("Casa");
+   controleCategoria.adicionarCategoria("Contas");
+   controleCategoria.adicionarCategoria("Bares");
+   controleCategoria.adicionarCategoria("Restaurantes");
+   controleCategoria.adicionarCategoria("coco");
    controleCategoria.carregarCategorias();
 
    controleCategoria.listarCategorias();
+
+   controleCategoria.salvarCategorias();
 
 
 

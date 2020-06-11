@@ -10,10 +10,12 @@ using namespace std;
 Categoria::Categoria(){
 }
 
+
+
 Categoria::Categoria(string nome) : _nome(nome){
 }
 
-string Categoria::getNome() {
+string Categoria::getNome() const {
     return _nome;
 }
 

@@ -21,7 +21,11 @@ void ControleCategoria::carregarCategorias() {
 
 }
 
+
+
 void ControleCategoria::listarCategorias() {
+
+    categoriaDAO.ordenarCategorias();
 
     categoriaDAO.listarCategorias();
 }
@@ -29,6 +33,8 @@ void ControleCategoria::listarCategorias() {
 void ControleCategoria::SetNome(string nome) {
 }
 
-void ControleCategoria::salvarCategoria(Categoria* categoria) {
+void ControleCategoria::salvarCategorias() {
+cout << "Salvando lista ordenada no arquivo" << endl;
+    categoriaDAO.salvaLista();
 }
 
